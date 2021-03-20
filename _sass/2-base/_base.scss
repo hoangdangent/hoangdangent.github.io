@@ -192,22 +192,40 @@ hr {
   }
 }
 
+/* Buttons */
 .button {
   display: inline-block;
-  height: 45px;
-  padding: 0 20px;
-  font-size: 15px;
-  font-weight: 700;
+  white-space: nowrap;
+  vertical-align: middle;
+  font-family: $heading-font-family;
+  font-size: 14px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1px;
   border: none;
+  border-radius: 3px;
   outline: none;
-  color: $button-color;
-  background: $button-background-color;
-  transition: all 0.35s;
+  -webkit-appearance: none;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.2s ease;
   cursor: pointer;
 
-  &:hover {
+  &--primary {
+    padding: 0px 1.8rem;
+    height: 50px;
+    line-height: 50px;
     color: $white;
-    background: $button-background-hover;
+    background-color: $dark;
+    &:hover {
+      color: $white;
+      background-color: darken($brand-color, 5%);
+    }
+  }
+
+  &--big {
+    display: block;
+    width: 100%;
   }
 }
 
