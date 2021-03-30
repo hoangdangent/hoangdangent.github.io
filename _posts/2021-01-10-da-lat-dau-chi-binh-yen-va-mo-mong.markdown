@@ -8,7 +8,7 @@ categories: [Tech, Personal]
 featured: true
 ---
 
-![Start](https://cdn.dribbble.com/users/702789/screenshots/14629949/media/2f6360483d7734379a00c67243aac22b.mp4)
+<p><iframe src="https://cdn.dribbble.com/users/702789/screenshots/14629949/media/2f6360483d7734379a00c67243aac22b.mp4" frameborder="0" allowfullscreen></iframe></p>
 
 Tôi tin không chỉ riêng mình, rất nhiều đồng nghiệp và thế hệ trẻ như Gen Z đều chọn Đà Lạt để đi chơi mỗi khi có thời gian. Chúng tôi đi nhiều đến mức không biết từ lúc nào đã mặc định đây như quê hương thứ hai của mình. Khi được hỏi về lý do tại sao lại chọn Đà Lạt là điểm đến mỗi khi đi du lịch, người sẽ chọn không khí, mê cái se se lạnh, người vì muốn đi tour cafe, thậm chí nghe nói có homestay mới mở đẹp lắm… 1000 lý do thì chung quy lại, ai cũng sẽ nghĩ Đà Lạt là nơi hữu hiệu nhất để nghỉ dưỡng tâm hồn. 
 
