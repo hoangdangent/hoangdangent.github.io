@@ -7,19 +7,20 @@ tags:   [Dreams, Desert]
 categories: [Tech, Personal]
 featured: true
 ---
-![Start](https://kenh14cdn.com/203336854389633024/2020/12/20/layer-1-16084597752041300802155.png)
+
+![Start](https://cdn.dribbble.com/users/702789/screenshots/14629949/media/2f6360483d7734379a00c67243aac22b.mp4)
 
 Tôi tin không chỉ riêng mình, rất nhiều đồng nghiệp và thế hệ trẻ như Gen Z đều chọn Đà Lạt để đi chơi mỗi khi có thời gian. Chúng tôi đi nhiều đến mức không biết từ lúc nào đã mặc định đây như quê hương thứ hai của mình. Khi được hỏi về lý do tại sao lại chọn Đà Lạt là điểm đến mỗi khi đi du lịch, người sẽ chọn không khí, mê cái se se lạnh, người vì muốn đi tour cafe, thậm chí nghe nói có homestay mới mở đẹp lắm… 1000 lý do thì chung quy lại, ai cũng sẽ nghĩ Đà Lạt là nơi hữu hiệu nhất để nghỉ dưỡng tâm hồn. 
 
 Nhưng. 
  
-![Img1](https://scontent-hkg4-1.xx.fbcdn.net/v/t1.0-9/133367046_3535378109845291_4289821882623681460_o.jpg?_nc_cat=101&ccb=2&_nc_sid=8bfeb9&_nc_ohc=iMUBOnY5Fz4AX846yvb&_nc_ht=scontent-hkg4-1.xx&oh=fdc8932bb6eb57701e839911d57a7aa4&oe=601EEB0E)
+![Img1](https://1stwebdesigner.com/wp-content/uploads//2017/03/06-mobile-app-onboarding-proces.gif)
  
 Đã bao giờ bạn cảm thấy sao chuyến đi của mình nhàm chán đến thế. Ừ thì cũng là cái không khí lạnh ấy, những quán cafe trăm view đẹp như một, vì ở đâu cũng nhìn về núi đồi, ngắm vài ba cây thông hoặc gốc hồng trụi lá. Chưa kể bây giờ chỉ cần tìm hashtag Đà Lạt trên Instagram, lướt một vòng kiểu gì cũng tìm thấy hàng trăm tấm ảnh giống nhau ở cùng một địa điểm. Bỗng dưng thấy… tình yêu Đà Lạt của chúng ta bây giờ thật công nghiệp, vì ai cũng đang yêu nó theo cùng một cách giống nhau. 
 
 Tuy nhiên. 
 
-![Img3](https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/95689427_2992253234175100_3375433541163679744_o.jpg?_nc_cat=109&ccb=2&_nc_sid=8bfeb9&_nc_ohc=fQc0G2PZ04AAX-_TGsi&_nc_ht=scontent.fsgn2-4.fna&oh=bb803dea28cd039dcade6041d6cae669&oe=6027AB12)
+![Img3](https://cdn.dribbble.com/users/452635/screenshots/11048108/media/d0d62c82fcca92458a2cfa0c675100ba.png?compress=1&resize=1600x1200)
 
 Đằng sau vẻ ngoài cũ kĩ, những địa điểm check-in trứ danh đang ngày một đại trà, Đà Lạt cũng dần chuyển mình hơn nhờ việc xuất hiện những địa điểm mới. Khi bắt đầu chuyến đi, khi ngồi trên xe tôi đã tự đặt cho mình hàng loạt câu hỏi: Tại sao thành phố này phải buồn như trong bài hát cùng tên của nhạc sĩ Lam Phương? Đà Lạt thì không chill, không vui tới bến được sao? Tại sao cứ đến Đà Lạt là phải chụp ảnh với núi rừng, với cây thông? Đà Lạt vẫn có thể tân thời, hiện đại cơ mà?
 
