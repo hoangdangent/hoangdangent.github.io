@@ -2,7 +2,7 @@
 layout: post
 title:  That which does not kill us makes us stronger
 date:   2021-01-03 15:01:35 +0700
-image:  'https://cdn.dribbble.com/users/1615584/screenshots/15167068/media/18c1c5809748e348cefe414ab4641c87.jpg?compress=1&resize=1600x1200'
+image:  "https://cdn.dribbble.com/users/1615584/screenshots/15167068/media/18c1c5809748e348cefe414ab4641c87.jpg?compress=1&resize=1600x1200"
 tags:   [Travel, Rest]
 featured: true
 ---
