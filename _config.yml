@@ -12,7 +12,7 @@ blog-theme: light # By default, Atega theme uses a 'light' color scheme, to chan
 # Author Settings
 author:
   name: Wilson D.
-  image: '/images/01.jpg'
+  image: "https://avatars.githubusercontent.com/u/76879212?v=4"
 
 
 #-------------------------------
