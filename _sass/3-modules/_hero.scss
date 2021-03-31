@@ -189,6 +189,7 @@
     z-index: 10;
     width: 480px; /* 370px */
     height: 480px; /* 470px */
+    border-radius: 8px;
     margin: 0 auto;
 
     &::before {
@@ -235,7 +236,7 @@
     .hero__image {
       width: 300px; /* 370px */
       height: 300px; /* 370px */
-      /* margin-bottom: 40px; */
+      margin-bottom: 40px;
     }
   }
 
@@ -243,7 +244,7 @@
     .hero__image {
       height: 270px; /* 370px */
       width: 270px; /* none */
-       /* margin-bottom: 30px; */
+      margin-bottom: 30px;
 
       img {
         box-shadow: none;
