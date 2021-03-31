@@ -217,14 +217,14 @@
 
   @media only screen and (max-width: 1130px) {
     .hero__image {
-      width: 270px; /* 370px */
+      width: 370px; /* 270px */
       height: 370px; /* 370px */
     }
   }
 
   @media only screen and (max-width: $desktop) {
     .hero__image {
-      width: 230px; /* 370px */
+      width: 330px; /* 230px */
       height: 330px; /* 370px */
     }
   }
@@ -234,8 +234,8 @@
 
     .hero__image {
       width: 100%; /* 370px */
-      height: 330px; /* 370px */
-      margin-bottom: 40px;
+      height: 100%; /* 370px */
+      /* margin-bottom: 40px; */
     }
   }
 
