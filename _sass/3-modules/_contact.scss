@@ -26,7 +26,7 @@
   transition: 250ms;
   resize: vertical;
   color: rgba($text-color, 0.8);
-  border-radius: 50%;
+  border-radius: 8px;
   background: $background-color-alt;
 
   &::placeholder {
