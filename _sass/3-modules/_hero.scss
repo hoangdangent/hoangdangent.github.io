@@ -209,6 +209,7 @@
       z-index: 1;
       height: 100%;
       width: 100%;
+      border-radius: 8px;
       object-fit: cover;
       box-shadow: 10px 10px 0 $brand-color;
       background: $background-color;
@@ -220,6 +221,7 @@
     .hero__image {
       width: 370px; /* 270px */
       height: 370px; /* 370px */
+      border-radius: 8px;
     }
   }
 
@@ -227,6 +229,7 @@
     .hero__image {
       width: 330px; /* 230px */
       height: 330px; /* 370px */
+      border-radius: 8px;
     }
   }
 
@@ -236,6 +239,7 @@
     .hero__image {
       width: 300px; /* 370px */
       height: 300px; /* 370px */
+      border-radius: 8px;
       margin-bottom: 40px;
     }
   }
@@ -244,6 +248,7 @@
     .hero__image {
       height: 270px; /* 370px */
       width: 270px; /* none */
+      border-radius: 8px;
       margin-bottom: 30px;
 
       img {
